@@ -13,4 +13,4 @@
 - [x]SYN攻击
 - [x]代理自带爬取 等
 * 安装命令
->``` https://github.com/hsadw233/hsadw233&&cd hsadw&&bash Start.sh```
+>``` git clone https://github.com/hsadw233/hsadw233&&cd hsadw&&bash Start.sh```
